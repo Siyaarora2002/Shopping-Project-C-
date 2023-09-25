@@ -1,0 +1,7 @@
+E:\Seneca stuff\7 - PRG650\ShoppingProject\Server\bin\Debug\Term_Project.exe.config
+E:\Seneca stuff\7 - PRG650\ShoppingProject\Server\bin\Debug\Term_Project.exe
+E:\Seneca stuff\7 - PRG650\ShoppingProject\Server\bin\Debug\Term_Project.pdb
+E:\Seneca stuff\7 - PRG650\ShoppingProject\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Seneca stuff\7 - PRG650\ShoppingProject\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Seneca stuff\7 - PRG650\ShoppingProject\Server\obj\Debug\Term_Project.exe
+E:\Seneca stuff\7 - PRG650\ShoppingProject\Server\obj\Debug\Term_Project.pdb
